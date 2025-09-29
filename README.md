@@ -1,2 +1,2 @@
 # QuantumultX
-自己寫 自己使用的QX代碼
+QuantumultX高手
